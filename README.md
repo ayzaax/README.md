@@ -9,7 +9,7 @@
 - 📅 Coding Since: 2024
 
 ## Featured Projects
-- 🎲 [Nombre del Proyecto 1] — [Breve descripción del proyecto.] ([Lenguaje]) — https://github.com/ayzaax/REPO_1
+- 🎲 Github-Course — Repositorio del curso de GitHub con ejercicios y prácticas. (Python) — https://github.com/ayzaax/Github-Course
 - 🛠️ [Nombre del Proyecto 2] — [Breve descripción del proyecto.] ([Lenguaje]) — https://github.com/ayzaax/REPO_2
 - 🤖 [Nombre del Proyecto 3] — [Breve descripción del proyecto.] ([Lenguaje]) — https://github.com/ayzaax/REPO_3
 
